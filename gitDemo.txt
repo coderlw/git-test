@@ -1,0 +1,7 @@
+git init
+git add <filename>
+git commit -m '<message>'
+git HEAD^
+git log   /   git log --pretty=oneline
+git --hard <HEAD id>
+git reflog
