@@ -5,3 +5,6 @@ git HEAD^
 git log   /   git log --pretty=oneline
 git --hard <HEAD id>
 git reflog
+git status
+git diff HEAD -- <filename>
+git checkout -- <filename>
